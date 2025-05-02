@@ -1,2 +1,3 @@
-[Arch Guide](/arch/README.md)
-[Mint Guide](/mint/README.md)
+### Distros
+- [Arch Guide](/arch/README.md)
+- [Mint Guide](/mint/README.md)
