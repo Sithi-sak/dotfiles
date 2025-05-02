@@ -1,6 +1,8 @@
 ## tmux-sessionizer
 <p>Put in <code>/.local/bin</code></p>
 
+[Arch Guide](/arch/README.md)
+
 ## Packages to install
 ### Neovim
 Ubuntu
