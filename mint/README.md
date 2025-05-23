@@ -13,6 +13,10 @@ sudo apt update && sudo apt upgrade
 ```sh
 sudo apt install vim git kitty luarocks fzf ripgrep
 ```
+### Build Neovim from source:
+> Follow the build guide at [Neovim](https://github.com/neovim/neovim/blob/master/BUILD.md)
+
+
 For slightly better font rendering
 ```sh
 sudo nvim /etc/environment
