@@ -11,7 +11,7 @@ sudo apt update && sudo apt upgrade
 ```
 ### Essentials program to install:
 ```sh
-sudo apt install vim git 
+sudo apt install vim git kitty luarocks fzf ripgrep
 ```
 For slightly better font rendering
 ```sh
