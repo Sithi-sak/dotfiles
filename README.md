@@ -5,3 +5,7 @@
 ```sh
 sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 ```
+
+```
+sudo update-alternatives --config x-cursor-themes
+```
